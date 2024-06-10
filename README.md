@@ -1,2 +1,2 @@
 # programmers
-for solve programmers problems
+for solving programmers problems
